@@ -1,5 +1,4 @@
-# LoveTime
-表白网站HTML模板
+
 演示地址：https://drfccv.github.io/LoveTime
 * 修改内容
     * 大部分内容都在`index.html`里面进行修改
